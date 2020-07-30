@@ -2,15 +2,15 @@
   "categorias": [
     {
       "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "titulo": "PC Poze nos anos 80",
+          "url": "https://www.youtube.com/watch?v=WZIGwN-5Ioo"
+        },
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? ",
           "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
         {
@@ -26,12 +26,8 @@
           "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "titulo": "Template String: Interpolando strings com JavaScript",
           "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
         },
         {
           "titulo": "Novidades do Angular v9",
@@ -46,10 +42,7 @@
     {
       "titulo": "Back End",
       "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
+      
       "videos": [
         {
           "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
@@ -70,16 +63,21 @@
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        },
+        {
+          "titulo": "Entendendo Back-End",
+          "url": "https://www.youtube.com/watch?v=Qjk-cSW-jk4"
+        },
+        {
+          "titulo": "Entendendo Back-End - parte 2",
+          "url": "https://www.youtube.com/watch?v=N6vgZr1k03g&t=742s"
         }
       ]
     },
     {
       "titulo": "Data Science e Inteligência Artificial",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      
       "videos": [
         {
           "titulo": "Teste de Turing",
@@ -99,36 +97,27 @@
         }
       ]
     },
+    
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Animes",
+      "cor": "pink",
       "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
+        
       ]
     },
     {
       "titulo": "Games",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+      
       "videos": [
+        {
+          "titulo": "Crysis Remastered",
+          "url": "https://www.youtube.com/watch?v=AILJWT_lB8g"
+        },
+        {
+          "titulo": "CS:GO - Melhores momentos",
+          "url": "https://www.youtube.com/watch?v=Z7M_QdgLCSE"
+        },
         {
           "titulo": "Final Fantasy 7",
           "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
@@ -152,21 +141,10 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Tecnologia",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
+      
       "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
         {
           "titulo": "Frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
@@ -176,8 +154,12 @@
           "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "RANT: Programação NÃO É Fácil",
+          "url": "https://www.youtube.com/watch?v=V7oUDL7E1g4"
+        },
+        {
+          "titulo": "A dor de aprender",
+          "url": "https://www.youtube.com/watch?v=HEaIsKm-pao"
         }
       ]
     }

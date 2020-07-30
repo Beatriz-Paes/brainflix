@@ -12,7 +12,6 @@ function getYouTubeId(youtubeURL) {
 
 export default function BannerMain({
   videoTitle,
-  videoDescription,
   url,
 }) {
   const youTubeID = getYouTubeId(url);
@@ -27,7 +26,7 @@ export default function BannerMain({
           </ContentAreaContainer.Title>
 
           <ContentAreaContainer.Description>
-            {videoDescription}
+            Bem vindo ao Brainflix! Para começar, veja essa obra de arte dos anos 80.
           </ContentAreaContainer.Description>
         </ContentAreaContainer.Item>
 
